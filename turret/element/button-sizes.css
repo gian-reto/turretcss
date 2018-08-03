@@ -1,7 +1,6 @@
 .button-xl {
   padding: var(--button-xl-padding-vertical) var(--button-xl-padding-horizontal);
   min-width: var(--button-xl-height);
-  height: var(--button-xl-height);
   font-size: var(--button-xl-font-size);
 
   & svg {
@@ -21,7 +20,6 @@
 .button-l {
   padding: var(--button-l-padding-vertical) var(--button-l-padding-horizontal);
   min-width: var(--button-l-height);
-  height: var(--button-l-height);
   font-size: var(--button-l-font-size);
 
   & svg {
@@ -41,7 +39,6 @@
 .button-s {
   padding: var(--button-s-padding-vertical) var(--button-s-padding-horizontal);
   min-width: var(--button-s-height);
-  height: var(--button-s-height);
   font-size: var(--button-s-font-size);
 
   & svg {
@@ -61,7 +58,6 @@
 .button-xs {
   padding: var(--button-xs-padding-vertical) var(--button-xs-padding-horizontal);
   min-width: var(--button-xs-height);
-  height: var(--button-xs-height);
   font-size: var(--button-xs-font-size);
 
   & svg {
