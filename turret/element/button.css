@@ -3,7 +3,6 @@ button,
   display: inline-block;
   padding: var(--button-padding-vertical) var(--button-padding-horizontal);
   min-width: var(--button-height);
-  height: var(--button-height);
   font-family: var(--button-font-family);
   font-weight: var(--button-font-weight);
   line-height: var(--button-line-height);
